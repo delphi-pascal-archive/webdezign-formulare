@@ -1,0 +1,25 @@
+[Edit]
+adress2_client=etg3 appt Droite
+des1_site=site de programmation
+des2_site=et de téléchargement
+[LabelEdit]
+nom_client=Lhoumaud
+prenom_client=David
+adress_client=11 rue ................
+code_postal_client=09200
+ville_client=Saint Girons
+tel_client=0566666666
+mail_cliient=---@---.fr
+adress_ftp=ftp://---.com
+login_ftp=craft
+pass_ftp=3309215657
+nom_site=koderz
+domaine_site=www.craft-koderz.com
+webmaster=---@---.fr
+[ComboBox]
+type_site=Informatique
+style_site=Moderne
+style_menu_site=Horizontal
+[ColorBox]
+color_principal=255
+color_police=0
